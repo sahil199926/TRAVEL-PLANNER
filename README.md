@@ -1,8 +1,10 @@
-# TRAVEL-PLANNER
-
-its a program which help to find the best destination to meet your friends based on the minimum distance as possible.
 
 ![](IMAGES/gifff.gif)
+
+# TRAVEL-PLANNER
+
+  A program which help to find the best destination to meet your friends based on the minimum distance as possible.
+
 ![](IMAGES/Capture.png)
 
 
