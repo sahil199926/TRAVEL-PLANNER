@@ -18,11 +18,10 @@ select the cities from the map shown and input the adjcent number.
 
 below is shown the distance from each city to every city.
 
-![](IMAGES/Capture_3.PNG)
+![](IMAGES/Capture_3.png)
 
 # OUTPUT
-![](IMAGES/Capture_2.PNG)
-The output consist of:-
+The output consists of:-
 
 The destination city which will be closer for all all of your friends including you.
 
