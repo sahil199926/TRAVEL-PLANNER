@@ -14,4 +14,4 @@ just put your location followed by for friends location.
 select the cities from the map shown and input the adjcent number.
 below is shown the distance from each city to every city.
 
-![](IMAGES/Capture_4.png)
+![](IMAGES/Capture_3.png)
