@@ -30,7 +30,7 @@ The path for each person from their city to destination (the shortest path).
 
 ![](IMAGES/Capture_2.png)
 # TIME COMPLEXITY
-The time complexity of Discastra algorithm is O(E(V-1)), E being no.of edges and V being no. of connections.
+The time complexity of Dijkstra's Algorithm is O(E(V-1)), E being no.of edges and V being no. of connections.
 but here we need to check for every vertesis if the combine distance is minimum to other possible vertices.
 so we will check for every vertesis 
 combine the time complexity becomes O(E(V)*V).
