@@ -9,7 +9,7 @@
 
 
 # ALGORITHMS
-dijkstra algorithm is used as a core algorith with some minor twiks wo meet the desirable output.
+dijkstra algorithm is used as a core algorithm with some minor tweaks to meet the desirable output.
 
 # WORKING
 just put your location followed by for friends location.
